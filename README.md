@@ -1,0 +1,1 @@
+# go-go-message-gof-factory-method
